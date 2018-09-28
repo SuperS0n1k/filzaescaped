@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://github.com/LiLinShou/ios-itms-services/raw/master/tbt.ipa</string>
+                   <string>http://github.com/LiLinShou/ios_itms-services_.plist/raw/master/H56482B06_0926103308.ipa</string>
                </dict>
 				<dict>
 					<key>kind</key>
@@ -32,9 +32,9 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.tongbu.tui.6Z99FT2VD6</string>
+               <string>H56482B06</string>
                <key>bundle-version</key>
-               <string>4.0.4</string>
+               <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
